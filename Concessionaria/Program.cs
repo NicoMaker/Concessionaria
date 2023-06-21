@@ -1,34 +1,27 @@
 ﻿using Concessionaria;
+using System.ComponentModel;
+using System.Drawing;
+using System.Reflection;
 
-Veicoli veicolo = new Veicoli();
+List <Veicoli> veicolis = new List <Veicoli>();
 
-veicolo.model.Add("Porshe Caarrera");
-veicolo.typology.Add("maccchina");
-veicolo.displacement.Add(3000);
-veicolo.colour.Add("Bianco");
-veicolo.port.Add(3);
-veicolo.seats.Add(2);
+veicolis.Add(new Car()
+{
+    Model = "Kia Rio",
+    Displacement = 1500,
+    Colour = "Bianco",
+    Seats = 5,
+    Port = 5
+});
 
-veicolo.model.Add("BMW GT2");
-veicolo.typology.Add("moto");
-veicolo.displacement.Add(1250);
-veicolo.colour.Add("Nera");
-veicolo.port.Add(0);
-veicolo.seats.Add(2);
-
-veicolo.model.Add("Ferrari SF90 Spider");
-veicolo.typology.Add("macchina");
-veicolo.displacement.Add(8000);
-veicolo.colour.Add("Rossa");
-veicolo.port.Add(3);
-veicolo.seats.Add(2);
-
-veicolo.model.Add("Yamaha Xmax 300");
-veicolo.typology.Add("moto");
-veicolo.displacement.Add(1300);
-veicolo.colour.Add("Nera");
-veicolo.port.Add(0);
-veicolo.seats.Add(2);
+veicolis.Add(new Motorbike()
+{
+    Model= "BMW GT2",
+    Displacement = 950,
+    Colour = "nero",
+    Seats = 2
+});
 
 
-veicolo.visualizza(veicolo.model, veicolo.typology, veicolo.displacement, veicolo.colour, veicolo.port, veicolo.seats);
+for (int i = 0; i < veicolis.Count; i++)
+    veicolis[i].PrintVeicolo();
