@@ -2,10 +2,26 @@
 
 public abstract class Veicoli
 {
-    public string Model = "";
-    public int Displacement = 0;
-    public string Colour = "";
-    public int Seats = 0;
+    public string Model 
+    { get; 
+      set;
+    }
+    public int Displacement
+    {
+        get;
+        set;
+    }
+
+    public string Colour
+    {
+        get; 
+        set;
+    }
+    public int Seats
+    {
+        get; 
+        set;
+    }
 
     public abstract void PrintVeicolo();
 }

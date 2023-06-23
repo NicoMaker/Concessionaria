@@ -1,27 +1,19 @@
 ﻿using Concessionaria;
-using System.ComponentModel;
-using System.Drawing;
-using System.Reflection;
+using Newtonsoft.Json;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
-List <Veicoli> veicolis = new List <Veicoli>();
+string jsonAuto = File.ReadAllText("Auto.json");
+string jsonMoto = File.ReadAllText("Moto.json");
 
-veicolis.Add(new Car()
-{
-    Model = "Kia Rio",
-    Displacement = 1500,
-    Colour = "Bianco",
-    Seats = 5,
-    Port = 5
-});
+List<Veicoli> veicoli = new List<Veicoli>();
 
-veicolis.Add(new Motorbike()
-{
-    Model= "BMW GT2",
-    Displacement = 950,
-    Colour = "nero",
-    Seats = 2
-});
+List<Car>? car = JsonConvert.DeserializeObject<List<Car>>(jsonAuto);
+List<Motorbike>? moto = JsonConvert.DeserializeObject<List<Motorbike>>(jsonMoto);
+
+car?.ForEach((c) => veicoli.Add(c));
+moto?.ForEach((m) => veicoli.Add(m));
 
 
-for (int i = 0; i < veicolis.Count; i++)
-    veicolis[i].PrintVeicolo();
+for (int i = 0; i < veicoli.Count; i++)
+    veicoli[i].PrintVeicolo();

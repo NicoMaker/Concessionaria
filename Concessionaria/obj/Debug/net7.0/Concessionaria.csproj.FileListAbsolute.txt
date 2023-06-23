@@ -1,0 +1,32 @@
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\bin\Debug\net7.0\Concessionaria.exe
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\bin\Debug\net7.0\Concessionaria.deps.json
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\bin\Debug\net7.0\Concessionaria.runtimeconfig.json
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\bin\Debug\net7.0\Concessionaria.dll
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\bin\Debug\net7.0\Concessionaria.pdb
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.csproj.AssemblyReference.cache
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.AssemblyInfoInputs.cache
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.AssemblyInfo.cs
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.csproj.CoreCompileInputs.cache
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.dll
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\obj\Debug\net7.0\refint\Concessionaria.dll
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.pdb
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.genruntimeconfig.cache
+D:\Corso ITS IIOT\Stage\Concessionaria 2\Concessionaria\Concessionaria\obj\Debug\net7.0\ref\Concessionaria.dll
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\bin\Debug\net7.0\Concessionaria.exe
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\bin\Debug\net7.0\Concessionaria.deps.json
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\bin\Debug\net7.0\Concessionaria.runtimeconfig.json
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\bin\Debug\net7.0\Concessionaria.dll
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\bin\Debug\net7.0\Concessionaria.pdb
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.csproj.AssemblyReference.cache
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.AssemblyInfoInputs.cache
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.AssemblyInfo.cs
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.csproj.CoreCompileInputs.cache
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.dll
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\refint\Concessionaria.dll
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.pdb
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.genruntimeconfig.cache
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\ref\Concessionaria.dll
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Corso ITS IIOT\Stage\Concessionaria\Concessionaria\Concessionaria\obj\Debug\net7.0\Concessionaria.csproj.CopyComplete

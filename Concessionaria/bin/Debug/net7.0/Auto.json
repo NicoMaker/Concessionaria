@@ -1,0 +1,17 @@
+[
+    {
+        "Model" : "Kia Rio",
+        "Displacement" : 1500,
+        "Colour": "Bianco",
+        "Seats" : 5,
+        "Port" : 5
+    },
+
+    {
+        "Model" : "Ferrari F50",
+        "Displacement" : 8000,
+        "Colour": "rossa",
+        "Seats" : 2,
+        "Port" : 3
+    }
+]

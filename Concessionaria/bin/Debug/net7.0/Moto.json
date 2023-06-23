@@ -1,0 +1,15 @@
+[
+    {
+        "Model" :  "BMW GT2",
+        "Displacement" : 950,
+        "Colour" : "nero",
+        "Seats" : 2
+    },
+
+    {
+        "Model" : "Yamaha F20",
+        "Displacement" : 1500,
+        "Colour": "rossa",
+        "Seats" : 2
+    }
+]
